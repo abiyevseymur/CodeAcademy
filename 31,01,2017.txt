@@ -1,0 +1,4 @@
+Butun proqramlasd?rma dill?ri iki terefe bolm?k olar: server v? must?ri.
+Onlar?n ?n popular - JavaScript v? Visual Basic'dir. Bu programlar Client Side yazilir. En boyuk ustunluk Client programming langueage'larda servere nese gondermek emel uchun ehtiyac olmur.BU na gore script daha dez oxunur ve process trafik yemir.
+
+Server side tamamile bawqa cur iwleyir. Server dil proqramlari data base'nan ve usernan elaqa saxliyirlar. User her hansisa adressi daxil olanda serverprogramlari data base'nan calasdirirlar.data base ise butun web seyfenin melumatlari verir hemin server skriptine, onlari yoxlanir, ve interpretasiyaya userin brauzerine gonderir. Netice userin monitorinda gorsenir. En meshxur Server dil programlarlar C++,Perl,Java,Php,Python ?
